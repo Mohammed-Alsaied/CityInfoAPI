@@ -1,4 +1,4 @@
-#Applying Object Oriented Programming Fundamentals in C# Course at Pluralsight
+#Applying Asp .Net Core Api Fundamentals Course at Pluralsight
 
 #Technology Used :
 
